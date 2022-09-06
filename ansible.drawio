@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T08:34:38.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Cf37vVt3soHH2hT1ldG7" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-06T14:18:31.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="PqE3JMTy0JumCIZi0-wz" version="20.2.8" type="github" pages="4">
   <diagram id="yNaVFir2sATI2JpIZOYR" name="Page-1">
     <mxGraphModel dx="903" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -316,17 +316,17 @@
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="lDWPfSIVELMBvMsfzFCk-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155.9999999999999" y="1181" as="targetPoint" />
+            <mxPoint x="155.9999999999999" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-6" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Files.svg;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1164" width="31" height="33.91" as="geometry" />
+          <mxGeometry x="49" y="1153" width="31" height="33.91" as="geometry" />
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-7" value="Base Infrastructure Provision file" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="49" y="997.36" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-8" value="Base Configuration&lt;br&gt;Files" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="49" y="1206.24" width="60" height="30" as="geometry" />
+          <mxGeometry x="49" y="1195.24" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
