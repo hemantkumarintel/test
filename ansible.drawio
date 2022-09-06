@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T06:31:26.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="8ooEEqRsLFjbF5akKvqY" version="20.2.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-06T08:34:38.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="Cf37vVt3soHH2hT1ldG7" version="20.2.8" type="github" pages="4">
   <diagram id="yNaVFir2sATI2JpIZOYR" name="Page-1">
     <mxGraphModel dx="903" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -343,7 +343,7 @@
         <mxCell id="lDWPfSIVELMBvMsfzFCk-13" value="Infrastructure Configuration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="484" y="1092" width="143" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lDWPfSIVELMBvMsfzFCk-15" value="Dynamic Infrastructure Installer file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="lDWPfSIVELMBvMsfzFCk-15" value="&amp;nbsp;Infrastructure Installer file" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="163" y="944" width="79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-16" value="Cloud" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fontSize=10;" vertex="1" parent="1">
@@ -367,7 +367,7 @@
         <mxCell id="lDWPfSIVELMBvMsfzFCk-22" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="720" y="976" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lDWPfSIVELMBvMsfzFCk-24" value="Dynamic&lt;br&gt;Configuration&lt;br&gt;Installer File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="lDWPfSIVELMBvMsfzFCk-24" value="Configuration&lt;br&gt;Installer File" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="163" y="1142" width="79" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lDWPfSIVELMBvMsfzFCk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="lDWPfSIVELMBvMsfzFCk-25">
